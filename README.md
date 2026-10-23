@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
+
 <!--
 **rasutomaa/rasutomaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
